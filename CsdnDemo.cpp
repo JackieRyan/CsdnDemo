@@ -15,6 +15,8 @@ int main(int argc, char **argv)
 	
 	cout << "second" << endl;
 	
+	cout << "third change" << endl;
+	
 	system("pause");
 	return 0;
 }
